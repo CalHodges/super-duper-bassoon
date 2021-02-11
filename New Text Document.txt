@@ -1,2 +1,2 @@
-`sampletext.txt billy
-download pandas as billy
+sampletext.txt billy
+import pandas as billy
